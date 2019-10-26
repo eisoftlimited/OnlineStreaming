@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "329197865554",
+    "firebase_url": "https://enthronement-lifestyle.firebaseio.com",
+    "project_id": "enthronement-lifestyle",
+    "storage_bucket": "enthronement-lifestyle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329197865554:android:84c9ae756ef924df142d8b",
+        "android_client_info": {
+          "package_name": "com.vpapps.EnthronementLifestyle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329197865554-7al6jv4dm7hs8orgqhhnh59h7romund9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoKnPeTjJpwJ-THgqa9t9kJvOXyMjb4t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329197865554-7al6jv4dm7hs8orgqhhnh59h7romund9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
